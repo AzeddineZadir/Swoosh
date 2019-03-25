@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Swoosh</string>
+    <string name="background">background</string>
+    <string name="swoosh_logo">swoosh logo</string>
+    <string name="disered_league">Disered League</string>
+
+    <string name="mens">mens</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="womens">womens</string>
+     <string name="next">next</string>
+    <string name="co_ed">co-ed</string>
+    <string name="go_all_in">GO ALL IN</string>
+    <string name="on_going_all_out">ON GOING ALL OUT</string>
+    <string name="finde_a_team_in_you_city_and_dominate_the_league">Finde a team in you city and dominate the league
+    </string>
+    <string name="get_started">get started</string>
+    <string name="todo">TODO</string>
 </resources>
