@@ -1,8 +1,8 @@
-package com.example.silver_desk.swoosh
+package com.example.silver_desk.swoosh.Contoler
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.silver_desk.swoosh.R
 import kotlinx.android.synthetic.main.activity_welcome.*
 
 class WelcomeActivity : BaseActivity() {
@@ -11,7 +11,7 @@ class WelcomeActivity : BaseActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_welcome)
         b_getstarted.setOnClickListener {
-            val leagueIntent = Intent(this,LeagueActivity::class.java)
+            val leagueIntent = Intent(this, LeagueActivity::class.java)
             startActivity(leagueIntent)
         }
     }
